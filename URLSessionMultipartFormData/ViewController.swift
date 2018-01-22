@@ -20,6 +20,10 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func getRequestMade(_ sender: Any) {
+    }
 
+    @IBAction func postRequestMade(_ sender: Any) {
+    }
 }
 
